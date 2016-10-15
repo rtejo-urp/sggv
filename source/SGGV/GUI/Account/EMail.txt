@@ -1,0 +1,5 @@
+﻿Hola <%UserName%> tu nueva contraseña es: <%Password%>
+
+Ingresa con esta nueva clave y cámbiala por una de fácil recordación
+
+Muchas Gracias.
